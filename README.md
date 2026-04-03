@@ -1,19 +1,39 @@
-# todo_app_python
-# 📝 Python To-Do List App
+#  Python To-Do GUI App
 
-A simple command-line to-do list application built using Python.
+A simple To-Do List application built using Python and Tkinter with persistent file storage.
 
-## Features
+---
+
+##  Features
 - Add tasks
-- View tasks
 - Delete tasks
-- Simple and interactive CLI
+- Graphical User Interface (GUI)
+- Saves tasks using file handling
 
-## Tech Used
+---
+
+##  How it Works
+The app uses Tkinter for the interface and stores tasks in a text file to maintain data even after closing.
+
+---
+
+##  Tech Stack
 - Python
+- Tkinter
 
-## How to Run
-python todo_app.py
+---
 
-## Author
+##  How to Run
+python todo_gui.py
+
+---
+
+##  Future Improvements
+- Add task editing
+- Add deadlines
+- Improve UI design
+
+---
+
+##  Author
 Guru Raghav M
